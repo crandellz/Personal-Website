@@ -1,0 +1,45 @@
+[12-Jan-2019 12:24:27 UTC] PHP Warning:  include(../_includes/header.php): failed to open stream: No such file or directory in /home/bdkfeicg/news.crandell.io/index.php on line 1
+[12-Jan-2019 12:24:27 UTC] PHP Warning:  include(../_includes/header.php): failed to open stream: No such file or directory in /home/bdkfeicg/news.crandell.io/index.php on line 1
+[12-Jan-2019 12:24:27 UTC] PHP Warning:  include(): Failed opening '../_includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bdkfeicg/news.crandell.io/index.php on line 1
+[12-Jan-2019 12:24:27 UTC] PHP Warning:  include(../_includes/articles.php): failed to open stream: No such file or directory in /home/bdkfeicg/news.crandell.io/index.php on line 14
+[12-Jan-2019 12:24:27 UTC] PHP Warning:  include(../_includes/articles.php): failed to open stream: No such file or directory in /home/bdkfeicg/news.crandell.io/index.php on line 14
+[12-Jan-2019 12:24:27 UTC] PHP Warning:  include(): Failed opening '../_includes/articles.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bdkfeicg/news.crandell.io/index.php on line 14
+[12-Jan-2019 12:24:27 UTC] PHP Warning:  include(../_includes/page.php): failed to open stream: No such file or directory in /home/bdkfeicg/news.crandell.io/index.php on line 16
+[12-Jan-2019 12:24:27 UTC] PHP Warning:  include(../_includes/page.php): failed to open stream: No such file or directory in /home/bdkfeicg/news.crandell.io/index.php on line 16
+[12-Jan-2019 12:24:27 UTC] PHP Warning:  include(): Failed opening '../_includes/page.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bdkfeicg/news.crandell.io/index.php on line 16
+[12-Jan-2019 12:24:27 UTC] PHP Warning:  include(../_includes/widgets.php): failed to open stream: No such file or directory in /home/bdkfeicg/news.crandell.io/index.php on line 20
+[12-Jan-2019 12:24:27 UTC] PHP Warning:  include(../_includes/widgets.php): failed to open stream: No such file or directory in /home/bdkfeicg/news.crandell.io/index.php on line 20
+[12-Jan-2019 12:24:27 UTC] PHP Warning:  include(): Failed opening '../_includes/widgets.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bdkfeicg/news.crandell.io/index.php on line 20
+[12-Jan-2019 12:24:27 UTC] PHP Warning:  include(../_includes/footer.php): failed to open stream: No such file or directory in /home/bdkfeicg/news.crandell.io/index.php on line 30
+[12-Jan-2019 12:24:27 UTC] PHP Warning:  include(../_includes/footer.php): failed to open stream: No such file or directory in /home/bdkfeicg/news.crandell.io/index.php on line 30
+[12-Jan-2019 12:24:27 UTC] PHP Warning:  include(): Failed opening '../_includes/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bdkfeicg/news.crandell.io/index.php on line 30
+[12-Jan-2019 12:24:28 UTC] PHP Warning:  include(../_includes/header.php): failed to open stream: No such file or directory in /home/bdkfeicg/news.crandell.io/index.php on line 1
+[12-Jan-2019 12:24:28 UTC] PHP Warning:  include(../_includes/header.php): failed to open stream: No such file or directory in /home/bdkfeicg/news.crandell.io/index.php on line 1
+[12-Jan-2019 12:24:28 UTC] PHP Warning:  include(): Failed opening '../_includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bdkfeicg/news.crandell.io/index.php on line 1
+[12-Jan-2019 12:24:28 UTC] PHP Warning:  include(../_includes/articles.php): failed to open stream: No such file or directory in /home/bdkfeicg/news.crandell.io/index.php on line 14
+[12-Jan-2019 12:24:28 UTC] PHP Warning:  include(../_includes/articles.php): failed to open stream: No such file or directory in /home/bdkfeicg/news.crandell.io/index.php on line 14
+[12-Jan-2019 12:24:28 UTC] PHP Warning:  include(): Failed opening '../_includes/articles.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bdkfeicg/news.crandell.io/index.php on line 14
+[12-Jan-2019 12:24:28 UTC] PHP Warning:  include(../_includes/page.php): failed to open stream: No such file or directory in /home/bdkfeicg/news.crandell.io/index.php on line 16
+[12-Jan-2019 12:24:28 UTC] PHP Warning:  include(../_includes/page.php): failed to open stream: No such file or directory in /home/bdkfeicg/news.crandell.io/index.php on line 16
+[12-Jan-2019 12:24:28 UTC] PHP Warning:  include(): Failed opening '../_includes/page.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bdkfeicg/news.crandell.io/index.php on line 16
+[12-Jan-2019 12:24:28 UTC] PHP Warning:  include(../_includes/widgets.php): failed to open stream: No such file or directory in /home/bdkfeicg/news.crandell.io/index.php on line 20
+[12-Jan-2019 12:24:28 UTC] PHP Warning:  include(../_includes/widgets.php): failed to open stream: No such file or directory in /home/bdkfeicg/news.crandell.io/index.php on line 20
+[12-Jan-2019 12:24:28 UTC] PHP Warning:  include(): Failed opening '../_includes/widgets.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bdkfeicg/news.crandell.io/index.php on line 20
+[12-Jan-2019 12:24:28 UTC] PHP Warning:  include(../_includes/footer.php): failed to open stream: No such file or directory in /home/bdkfeicg/news.crandell.io/index.php on line 30
+[12-Jan-2019 12:24:28 UTC] PHP Warning:  include(../_includes/footer.php): failed to open stream: No such file or directory in /home/bdkfeicg/news.crandell.io/index.php on line 30
+[12-Jan-2019 12:24:28 UTC] PHP Warning:  include(): Failed opening '../_includes/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bdkfeicg/news.crandell.io/index.php on line 30
+[12-Jan-2019 12:25:36 UTC] PHP Warning:  include(../_includes/header.php): failed to open stream: No such file or directory in /home/bdkfeicg/news.crandell.io/index.php on line 1
+[12-Jan-2019 12:25:36 UTC] PHP Warning:  include(../_includes/header.php): failed to open stream: No such file or directory in /home/bdkfeicg/news.crandell.io/index.php on line 1
+[12-Jan-2019 12:25:36 UTC] PHP Warning:  include(): Failed opening '../_includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bdkfeicg/news.crandell.io/index.php on line 1
+[12-Jan-2019 12:25:36 UTC] PHP Warning:  include(../_includes/articles.php): failed to open stream: No such file or directory in /home/bdkfeicg/news.crandell.io/index.php on line 15
+[12-Jan-2019 12:25:36 UTC] PHP Warning:  include(../_includes/articles.php): failed to open stream: No such file or directory in /home/bdkfeicg/news.crandell.io/index.php on line 15
+[12-Jan-2019 12:25:36 UTC] PHP Warning:  include(): Failed opening '../_includes/articles.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bdkfeicg/news.crandell.io/index.php on line 15
+[12-Jan-2019 12:25:36 UTC] PHP Warning:  include(../_includes/page.php): failed to open stream: No such file or directory in /home/bdkfeicg/news.crandell.io/index.php on line 17
+[12-Jan-2019 12:25:36 UTC] PHP Warning:  include(../_includes/page.php): failed to open stream: No such file or directory in /home/bdkfeicg/news.crandell.io/index.php on line 17
+[12-Jan-2019 12:25:36 UTC] PHP Warning:  include(): Failed opening '../_includes/page.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bdkfeicg/news.crandell.io/index.php on line 17
+[12-Jan-2019 12:25:36 UTC] PHP Warning:  include(../_includes/widgets.php): failed to open stream: No such file or directory in /home/bdkfeicg/news.crandell.io/index.php on line 21
+[12-Jan-2019 12:25:36 UTC] PHP Warning:  include(../_includes/widgets.php): failed to open stream: No such file or directory in /home/bdkfeicg/news.crandell.io/index.php on line 21
+[12-Jan-2019 12:25:36 UTC] PHP Warning:  include(): Failed opening '../_includes/widgets.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bdkfeicg/news.crandell.io/index.php on line 21
+[12-Jan-2019 12:25:36 UTC] PHP Warning:  include(../_includes/footer.php): failed to open stream: No such file or directory in /home/bdkfeicg/news.crandell.io/index.php on line 31
+[12-Jan-2019 12:25:36 UTC] PHP Warning:  include(../_includes/footer.php): failed to open stream: No such file or directory in /home/bdkfeicg/news.crandell.io/index.php on line 31
+[12-Jan-2019 12:25:36 UTC] PHP Warning:  include(): Failed opening '../_includes/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bdkfeicg/news.crandell.io/index.php on line 31
